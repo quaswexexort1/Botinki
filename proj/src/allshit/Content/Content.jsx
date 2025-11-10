@@ -2,7 +2,7 @@ import {Link} from 'react-router-dom';
 import styles from './Content.module.scss'
 import Storonka from './storonka.jsx'
 import {cards} from "../../data.js"
-import arrow from '../../assets/footer_icons/arrow.png'
+import arrow from '../../assets/PHOTOFOOTER/arrow.png'
 
 
 const Card = ({img, title, price, index}) => {

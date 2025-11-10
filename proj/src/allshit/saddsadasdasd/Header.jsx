@@ -1,11 +1,11 @@
 import React from 'react'
-import facebook from "../../assets/header_icons/facebook.svg"
-import instagram from "../../assets/header_icons/instagram.svg"
-import logo from "../../assets/header_icons/logo.svg"
-import search from "../../assets/header_icons/search.svg"
-import shopping_cart from "../../assets/header_icons/shopping-cart.svg"
-import twitter from "../../assets/header_icons/twitter.svg"
-import user from "../../assets/header_icons/user.svg"
+import facebook from "../../assets/PHOTOHEADER/facebook.svg"
+import instagram from "../../assets/PHOTOHEADER/instagram.svg"
+import logo from "../../assets/PHOTOHEADER/logo.svg"
+import search from "../../assets/PHOTOHEADER/search.svg"
+import shopping_cart from "../../assets/PHOTOHEADER/shopping-cart.svg"
+import twitter from "../../assets/PHOTOHEADER/twitter.svg"
+import user from "../../assets/PHOTOHEADER/user.svg"
 
 import styles from './Header.module.scss'
 

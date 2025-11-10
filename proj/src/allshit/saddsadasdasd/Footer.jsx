@@ -1,12 +1,12 @@
 import styles from './Footer.module.scss'
-import img_1 from "../../assets/footer_icons/img_1.png"
-import img_2 from "../../assets/footer_icons/img_2.png"
-import img_3 from "../../assets/footer_icons/img_3.png"
-import img_4 from "../../assets/footer_icons/img_4.png"
-import phone from "../../assets/footer_icons/phone.png"
-import mail from "../../assets/footer_icons/mail.png"
-import time from "../../assets/footer_icons/time.png"
-import map from "../../assets/footer_icons/map-pin.png"
+import img_1 from "../../assets/PHOTOFOOTER/img_1.png"
+import img_2 from "../../assets/PHOTOFOOTER/img_2.png"
+import img_3 from "../../assets/PHOTOFOOTER/img_3.png"
+import img_4 from "../../assets/PHOTOFOOTER/img_4.png"
+import phone from "../../assets/PHOTOFOOTER/phone.png"
+import mail from "../../assets/PHOTOFOOTER/mail.png"
+import time from "../../assets/PHOTOFOOTER/time.png"
+import map from "../../assets/PHOTOFOOTER/map-pin.png"
 
 const Footer = () => {
   return (
