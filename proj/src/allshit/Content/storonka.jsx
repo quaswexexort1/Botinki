@@ -1,7 +1,7 @@
 import {little_cards_2, little_cards} from "../../data.js"
 import styles from './Content.module.scss'
-import star from "../../assets/star.png"
-import star_grey from "../../assets/star_grey.png"
+import star from "../../assets/ZVEZDA.png"
+import star_grey from "../../assets/SERAYAZVEZDA.png"
 
 
 const Little_card = ({title, price, rating=0, img}) => {
